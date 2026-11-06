@@ -88,7 +88,7 @@ CPE010-FInalProject-PharmacySystem/
 ├── CustomerQueue.h
 ├── Transaction.h
 ├── Stack.h
-├── Transactions.h
+├── TransactionsManager.h
 ├── Sales.h
 ├── FileManager.h
 │
