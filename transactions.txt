@@ -1,0 +1,2 @@
+TXN1793908845-1|2026-11-06|Customer: Ryo Shin Mendoza; Items: Paracetamol x 5, Biogesic x 7|88.00
+TXN1793970494-1|2026-11-06|Customer: Jimlord Quejado; Items: Paracetamol x 7, Biogesic x 5|80.00

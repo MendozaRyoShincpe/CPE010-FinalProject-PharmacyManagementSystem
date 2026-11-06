@@ -1,0 +1,5 @@
+CD "C:\USERS\SHIN\ONEDRIVE\??????\DSA PROJECT\" ; IF ($?) { G++ BENCHMARK.CPP -O BENCHMARK } ; IF ($?) { .\BENCHMARK }|cd "c:\Users\Shin\OneDrive\??????\DSA Project\" ; if ($?) { g++ benchmark.cpp -o benchmark } ; if ($?) { .\benchmark }|5.00|4|2029-05-06
+MED001|Paracetamol|5.00|88|2028-12-31
+MED002|Biogesic|9.00|38|2027-05-23
+MED003|Neozep|12.00|30|2027-01-01
+MED004|Vitamin C|10.00|80|2027-04-09
